@@ -32,6 +32,8 @@ int main(){
 
     int ans=countOdds(low,high);
 
+    // log the answer
+    
     cout<<ans;
 
 }
